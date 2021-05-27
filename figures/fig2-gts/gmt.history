@@ -1,0 +1,11 @@
+# GMT 6 Session common arguments shelf
+BEGIN GMT 6.1.1
+B	xa20f10+lelevation [m]
+J	x
+JX	X5i/5.27027027027i
+Jx	x1:818181.818182
+R	-645000/-600000/-920000/-875000
+X	5.6c
+Y	c
+@L	22
+END

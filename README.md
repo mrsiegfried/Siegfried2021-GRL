@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4914107.svg)](https://doi.org/10.5281/zenodo.4914107)
+
 # Siegfried2021-GRL
 Code bank for Siegfried &amp; Fricker (2021) in Geophysical Research Letters.
 

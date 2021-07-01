@@ -1,3 +1,8 @@
+#!/bin/bash
+# M.R. Siegfried, siegfried@mines.edu
+
+out=siegfried2021-fig2
+
 is1=../../data/is/Mac1_L2a.dat
 is2=../../data/is2/atl06.003/Mac1.is2.xyzt
 cs21=../../data/cs2/baseline_d/Mac1/Mac1_cs2_SINL2_201910.txt
@@ -6,9 +11,6 @@ cs23=../../data/cs2/baseline_d/Mac1/Mac1_cs2_SINL2_201912.txt
 outline=../../data/outlines/xy/Mac1.xy
 moa="${DATAHOME}/MODIS/MOA/moa125_2009_hp1_v1.1.nc"
 vel="${DATAHOME}/velocity/measures-phase_v1/antarctic_ice_vel_phase_map_v01.nc"
-
-
-out=siegfried2020-fig2
 
 xl=-645000
 xh=-600000

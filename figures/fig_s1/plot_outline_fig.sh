@@ -1,4 +1,7 @@
-out='siegfried2020-figs1'
+#!/bin/bash
+# M.R. Siegfried, siegfried@mines.edu
+
+out='siegfried2021-figs1'
 quickplot=0 # set to 1 to plot this quickly for layout purposes
 
 

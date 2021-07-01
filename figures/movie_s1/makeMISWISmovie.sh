@@ -1,4 +1,5 @@
-
+#!/bin/bash
+# M.R. Siegfried, siegfried@mines.edu
 
 outstem='png/siegfried2020-grl-miswis'
 
